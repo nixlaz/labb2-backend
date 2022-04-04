@@ -1,0 +1,8 @@
+{
+	"name": "eu-backend",
+	"description": "Javascript Backend",
+	"repository": "https://github.com/nixlaz/labb2-backend",
+	"logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+	"keywords": ["node", "express", "heroku"],
+	"image": "heroku/nodejs"
+}
